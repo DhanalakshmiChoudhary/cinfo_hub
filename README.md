@@ -1,16 +1,13 @@
-# cinfo_hub
+CInfo_Hub
+This project is a simple mobile app to use any IMDb API to fetch and display top 50 movies currently.
+Project is created with:
+$ Google flutter framework and http module to call IMDB movie API.
+$ VSCodeUserSetup-x64-1.68.0
+$ flutter sdk
+$ android-studio-2021.2.1.15-windows
+$ riverpod library
+To run this project, install it locally using npm:
+$ install npm
+$ npm start
+$ install DART(if necessary)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
